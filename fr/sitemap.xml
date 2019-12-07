@@ -3,44 +3,44 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mobkun.gitee.io/fr/categories/</loc>
+    <loc>https://mobkun.github.io/fr/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mobkun.gitee.io/categories/"
+                href="https://mobkun.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mobkun.gitee.io/fr/categories/"
+                href="https://mobkun.github.io/fr/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://mobkun.gitee.io/fr/</loc>
+    <loc>https://mobkun.github.io/fr/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mobkun.gitee.io/"
+                href="https://mobkun.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mobkun.gitee.io/fr/"
+                href="https://mobkun.github.io/fr/"
                 />
   </url>
   
   <url>
-    <loc>https://mobkun.gitee.io/fr/tags/</loc>
+    <loc>https://mobkun.github.io/fr/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mobkun.gitee.io/tags/"
+                href="https://mobkun.github.io/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mobkun.gitee.io/fr/tags/"
+                href="https://mobkun.github.io/fr/tags/"
                 />
   </url>
   

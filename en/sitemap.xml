@@ -3,44 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://mobkun.gitee.io/categories/</loc>
+    <loc>https://mobkun.github.io/about/</loc>
+    <lastmod>2019-11-23T20:00:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/</loc>
+    <lastmod>2019-11-23T20:00:03+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mobkun.gitee.io/fr/categories/"
+                href="https://mobkun.github.io/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mobkun.gitee.io/categories/"
+                href="https://mobkun.github.io/"
                 />
   </url>
   
   <url>
-    <loc>https://mobkun.gitee.io/</loc>
+    <loc>https://mobkun.github.io/post/a/</loc>
+    <lastmod>2019-11-23T19:59:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/post/</loc>
+    <lastmod>2019-11-23T19:59:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mobkun.gitee.io/fr/"
+                href="https://mobkun.github.io/fr/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mobkun.gitee.io/"
+                href="https://mobkun.github.io/categories/"
                 />
   </url>
   
   <url>
-    <loc>https://mobkun.gitee.io/tags/</loc>
+    <loc>https://mobkun.github.io/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="https://mobkun.gitee.io/fr/tags/"
+                href="https://mobkun.github.io/fr/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://mobkun.gitee.io/tags/"
+                href="https://mobkun.github.io/tags/"
                 />
   </url>
   
