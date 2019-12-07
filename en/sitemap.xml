@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mobkun.github.io/about/</loc>
+    <lastmod>2019-11-23T20:00:03+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/</loc>
+    <lastmod>2019-11-23T20:00:03+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mobkun.github.io/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mobkun.github.io/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/post/a/</loc>
+    <lastmod>2019-11-23T19:59:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/post/</loc>
+    <lastmod>2019-11-23T19:59:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mobkun.github.io/fr/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mobkun.github.io/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mobkun.github.io/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="https://mobkun.github.io/fr/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mobkun.github.io/tags/"
+                />
+  </url>
+  
+</urlset>
